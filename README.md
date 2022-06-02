@@ -36,4 +36,4 @@
   
 ##
 - 🔭 Estou procurando emprego atualmente
-- 🌱 Estou atualmente perticipenao do Bootcamp Santander / Semana Spring React (Dev Superior - Escola de Programação) - SDS 4
+- 🌱 Estou atualmente perticipenao do Bootcamp Santander 2022 na Digital Innovation One
