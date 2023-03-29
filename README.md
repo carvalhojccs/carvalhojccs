@@ -1,7 +1,7 @@
 ## Oi pode me chamar de Carvalho 👋
-### Engenheiro Mecânico pela UFPA
+### Formado em Engenharia Mecânico pela UFPA
 ### Especialista em Rede de Computadores e Tecnologia Internet pela UFPA
-### Bacharel em Sistemas de Informação pela Estácio de Sá
+### Formado em Sistemas de Informação pela Estácio de Sá
 ### Cursando especialização em desenvolvimento full stack na IGTI
 <div>
   <a href="https://github.com/rafaballerini">
@@ -35,5 +35,4 @@
 </div>
   
 ##
-- 🔭 Estou procurando emprego atualmente
-- 🌱 Estou atualmente perticipenao do Bootcamp Santander 2022 na Digital Innovation One
+- 🔭 Desenvolvedor na [ZAMED](http://www.zamed.com.br)
